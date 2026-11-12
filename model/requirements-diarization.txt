@@ -1,0 +1,4 @@
+-r requirements.txt
+pyannote.audio==3.3.2
+pyannote.core<6
+pyannote.metrics<4
